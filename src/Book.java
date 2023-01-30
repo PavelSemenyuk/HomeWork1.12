@@ -9,6 +9,7 @@ public class Book {
     }
     public String getName(){
         return this.name;
+
     }
     public int getDate(){
         return this.date;

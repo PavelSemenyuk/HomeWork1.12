@@ -8,6 +8,7 @@ public class Avthor {
 
     }
     public String getNameAvtor(){
+
         return this.nameAvtor;
     }
     public String getSurname(){

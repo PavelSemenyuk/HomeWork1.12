@@ -6,6 +6,7 @@ public class HomeWork {
         masterM.setDate(1956);
         System.out.println("Год переиздания = " + masterM.getDate());
 
+
         Avthor bylgakov = new Avthor("Михаил ", "Булгаков");
         System.out.println("Имя автора = " + bylgakov.getNameAvtor() + bylgakov.getSurname());
 
