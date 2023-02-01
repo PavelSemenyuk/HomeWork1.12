@@ -1,15 +1,15 @@
 public class Avthor {
-    private String nameAvtor;
+    private String nameAvthor;
     private String surname;
 
-    public Avthor(String nameAvtor, String surname) {
-        this.nameAvtor = nameAvtor;
+    public Avthor(String nameAvthor, String surname) {
+        this.nameAvthor = nameAvthor;
         this.surname = surname;
 
     }
-    public String getNameAvtor(){
+    public String getNameAvthor(){
 
-        return this.nameAvtor;
+        return this.nameAvthor;
     }
     public String getSurname(){
         return this.surname;
