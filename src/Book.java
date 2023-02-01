@@ -4,6 +4,7 @@ public class Book {
     Avthor avthor;
 
 
+
     public Book(String name, int date, Avthor avthor){
         this.name= name;
         this.date=date;

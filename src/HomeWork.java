@@ -3,6 +3,7 @@ public class HomeWork {
         Avthor avthor1 = new Avthor("Михаил ", "Булгаков");
         Avthor avthor2 = new Avthor("Айн ","Рэнд");
 
+
         Book book1 =  new Book("Мастер и Маргорита", 1928, avthor1);
         Book book2 = new Book("Атлант расправил плечи", 1957, avthor2);
 

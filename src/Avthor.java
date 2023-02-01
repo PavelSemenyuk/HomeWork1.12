@@ -6,6 +6,7 @@ public class Avthor {
         this.nameAvthor = nameAvthor;
         this.surname = surname;
 
+
     }
     public String getNameAvthor(){
 
